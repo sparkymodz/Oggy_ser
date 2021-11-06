@@ -108,7 +108,7 @@ Asena.addCommand({pattern: 'unimage', fromMe: true, dontAddCommandList: true}, (
 else if (Config.WORKTYPE == 'public') {
 
    Asena.addCommand({pattern: 'a ?(.*)', fromMe: true, desc: Lang.UV_DESC}, (async (message, match) => {    
-    if (message.reply_message === false);
+    if (message.reply_message === true);
     var location = await message.client.downloadAndSaveMediaMessage({
         key: {
             remoteJid: message.reply_message.jid,
@@ -125,7 +125,7 @@ let id = match[1];
 });}));
 
 Asena.addCommand({pattern: 'unvoice', fromMe: true, desc: Lang.UV_DESC}, (async (message, match) => {    
-    if (message.reply_message === false);
+    if (message.reply_message === true);
     var location = await message.client.downloadAndSaveMediaMessage({
         key: {
             remoteJid: message.reply_message.jid,
