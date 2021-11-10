@@ -281,7 +281,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
             }
           }         
             return;                               
-    }
+    }         
 
         events.commands.map(
             async (command) =>  {

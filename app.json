@@ -1,6 +1,6 @@
 {
     "name": "Amalser ",
-    "description": "Amalser is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
+    "description": "Amalser is the Modified Version of WhatsAsena, Made By @Amal-ser with Baileys.",
     "logo": "https://i.imgur.com/yCYYyEJ.jpeg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
     "repository": "https://github.com/Amal-ser/Amalser",
@@ -50,7 +50,7 @@
             "required": false,
             "value": "false"
         },
-        "BYE_GIF": {
+        "GIF_BYE": {
             "description": "Fill here any gif link if you selected gif as WEELCOME",
             "required": false,
             "value": "false"
@@ -123,6 +123,26 @@
             "required": false,
             "value": "hear me friends"
         },
+        "EMOJI_COMMAND": {
+            "description": "You can change Command list emojis.)",
+            "required": true,
+            "value": "🃏"
+        },
+        "EMOJI_DESCRIPTION": {
+            "description": "You can change command list emojis.)",
+            "required": true,
+            "value": "🦸‍♂️"
+        },
+        "EMOJI_EXAMPLE": {
+            "description": "You can change command list emojis.)",
+            "required": true,
+            "value": "💬"
+        },
+        "EMOJI_WARNING": {
+            "description": "You can change command list emojis.)",
+            "required": true,
+            "value": "⚠"
+        },
         "BLOCK_CHAT": {
             "description": "Choose in which chat the bot won't work there. Ex: 905xxxx && 905xxxx-1xxx or 905xxxx,905xxx...",
             "required": false,
@@ -165,7 +185,21 @@
         "OWNER_NAME": {
             "description": "reply for .owner ! give your details, Use => default, to change back.",
             "required": false,
-            "value": "default"
+            "value": "Amalser"
+        },
+        "OWNER_NUMBER": {
+            "description": "Enter the owner number, You must enter your number, Please don't enter the number with country code ( example : 91 for indian ) Also don't enter space & + on the number ( example : 91996132xxxx for indian ). ( This number will be shown on some commands )",
+            "required": false,
+            "value": "919895828468"
+        },
+        "NUMBER": {
+            "description": "Enter the owner number, You must enter your number, Please don't enter the number with country code ( example : 91 for indian ) Also don't enter space & + on the number ( example : 91996132xxxx for indian ). ( This number will be shown on some commands )",
+            "required": false,
+            "value": "919895828468"
+        },
+        "DEPLOYER": {
+            "description": "enter your name here",
+            "required": false
         },
         "REMOVE_BG_API_KEY": {
             "description": "https://remove.bg",

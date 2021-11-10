@@ -8,6 +8,7 @@ const Asena = require('../events');
 const {MessageType,Mimetype} = require('@adiwajshing/baileys');
 const translatte = require('translatte');
 const config = require('../config');
+const Config = require('../config');
 const LanguageDetect = require('languagedetect');
 const lngDetector = new LanguageDetect();
 const Heroku = require('heroku-client');
@@ -478,6 +479,18 @@ if (config.WORKTYPE == 'private') {
                 await message.client.sendMessage(message.jid,Buffer.from(writer.arrayBuffer), MessageType.audio, {mimetype: Mimetype.mp4Audio, quoted: message.data, ptt: false});
             });
     }));
+
+    Asena.addCommand({pattern: 'owner', fromMe: false, desc: Lang.NUMBER}, (async (message, match) => {
+
+            const vcard = 'BEGIN:VCARD\n'
+            + 'VERSION:3.0\n' 
+            + 'FN:' + Config.OA_NAME + '\n' //created afnanplk, please copy this with credit..
+            + 'ORG:Amalser;\n' 
+            + 'TEL;type=CELL;type=VOICE;waid=' + Config.PHONE + ':' + Config.PHONE + ' \n'
+            + 'END:VCARD'
+await message.client.sendMessage(message.jid, {displayname: "Amalser", vcard: vcard}, MessageType.contact);
+
+  }));
     
     Asena.addCommand({pattern: 'video ?(.*)', fromMe: true, desc: Lang.VIDEO_DESC}, (async (message, match) => { 
 
@@ -1115,6 +1128,17 @@ else if (config.WORKTYPE == 'public') {
           )
       },
     )
+    Asena.addCommand({pattern: 'owner', fromMe: false, desc: Lang.NUMBER}, (async (message, match) => {
+
+            const vcard = 'BEGIN:VCARD\n'
+            + 'VERSION:3.0\n' 
+            + 'FN:' + Config.OA_NAME + '\n' //created afnanplk, please copy this with credit..
+            + 'ORG:Amalser;\n' 
+            + 'TEL;type=CELL;type=VOICE;waid=' + Config.PHONE + ':' + Config.PHONE + ' \n'
+            + 'END:VCARD'
+await message.client.sendMessage(message.jid, {displayname: "Amalser", vcard: vcard}, MessageType.contact);
+
+  }));
    
     Asena.addCommand({pattern: 'lyric ?(.*)', fromMe: false, desc: Slang.LY_DESC }, (async (message, match) => {
 
