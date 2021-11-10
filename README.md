@@ -10,7 +10,7 @@
 </p>
   </p>
 <p align="center">
-<a href="https://github.com/kalippan-minnus"><img title="aju" src="https://img.shields.io/badge/author-Kalippan_ser?color=blue&style=for-the-badge&logo=github"></a>
+<a href="https://github.com/kalippan-minnus"><img title="Midhun" src="https://img.shields.io/badge/author-kalippanser?color=blue&style=for-the-badge&logo=github"></a>
 
 </div>
 <p align="center">
@@ -25,12 +25,12 @@ Project created by <a href="https://github.com/kalippan-minnuz">Midhun</a> to ma
 
   <p align="center">
   <a href="https://github.com/kalippan-minnuz/Kalippan_ser ">
-    <img src="https://img.shields.io/github/repo-size/kalippan-minnz/Kalippan_ser?color=red&label=Repo%20total%20size&style=flat-square">
+    <img src="https://img.shields.io/github/repo-size/kalippan-minnz/kalippanser?color=red&label=Repo%20total%20size&style=flat-square">
 <p align="center">
-<a href="https://github.com/kalippan_minnuz/Kalippan_ser/followers"><img title="Followers" src="https://img.shields.io/github/followers/aju001?color=grey&style=plastic"></a>
-<a href="https://github.com/kalippan_minnuz/Kalippan_ser/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/kalippan-minnuz/Kalippan_ser?color=grey&style=plastic"></a>
-<a href="https://github.com/kalippan_minnuz/Kalippan_ser/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kalippan_minnuz/Kalippan_ser?color=grey&style=plastic"></a>
-<a href="https://github.com/kalippan-minnuz/Kalippanser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kalippan_minnuz/Kalippan_ser?label=Watchers&color=grey&style=flat-circle"></a>
+<a href="https://github.com/kalippan-minnuz/kalippanser/followers"><img title="Followers" src="https://img.shields.io/github/followers/kalippan-minnuz?color=grey&style=plastic"></a>
+<a href="https://github.com/kalippan-minnuz/kalippanser/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/kalippan-minnuz/kalippanser?color=grey&style=plastic"></a>
+<a href="https://github.com/kalippan-minnuz/kalippanser/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kalippan_minnuz/kalippanser?color=grey&style=plastic"></a>
+<a href="https://github.com/kalippan-minnuz/kalippanser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kalippan_minnuz/kalippanser?label=Watchers&color=grey&style=flat-circle"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-red.svg"</a>
 <h3 align="center">Contact Me:</h3>
 
@@ -49,7 +49,7 @@ Project created by <a href="https://github.com/kalippan-minnuz">Midhun</a> to ma
 <a href="https://youtube.com/channel/UC0yNrBziB3u2hzvXzJ4NnTA" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
 ```
   
-kalippan_ser Userbot is Open Source software open to development. 
+kalippanser Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
@@ -72,7 +72,7 @@ the user is responsible.
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Amalser/Amalser)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kalippan-minnuz/Kalippan_ser)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kalippan-minnuz/kalippanser)
      </div>
 <br>
 <br >
@@ -86,8 +86,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://kalippan-minnuzKalippan_ser
-$ cd Kalippan_ser
+$ git clone https://kalippan-minnuz/kalippanser
+$ cd kalippanser
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -96,8 +96,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://kalippan-minnz/Kalippan_ser
-$ cd Kalippanser
+$ git clone https://kalippan-minnz/kalippanser
+$ cd kalippanser
 $ chmod +x *
 $ npm i
 $ node qr.js
