@@ -10,15 +10,15 @@ Asena.addCommand({pattern: 'setvar', fromMe: false, desc: Lang.WP}, (async (mess
     var r_text = new Array ();
     
     
-    r_text[0] = "https://www.linkpicture.com/q/IMG-kalippan-minnuz.png";
+    r_text[0] = "https://www.linkpicture.com/q/IMG-20210629-WA0181.jpg";
     
     
     var i = Math.floor(1*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━🥀SETVAR🥀━━⛦
-𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 KALIPPANSER 𝐛𝐨𝐭.
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━💘SETVAR💘━━⛦
+𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 ᮘKͥᴀͭʟᷤɪᴘͫᴘͤᴀɴ ➣Sᴇʀ᭄↹ 𝐛𝐨𝐭.
   
 *ẉa.me/➳Setvar*
 ■□■□■□■□■□■□■□■□■□■□
@@ -92,7 +92,7 @@ All setvars are
 
      *happy using Kalippanser bot ❣️*
 
-*Editing And Devaloper : Midhunser -kalippanser*
+*Editing And Devaloper : Midhun -Kalippanser*
 
 *Erorr Fixing : Farhan -Julie Mwol 💌*
 
