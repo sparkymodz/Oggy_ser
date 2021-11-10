@@ -1,113 +1,145 @@
 <div align="center">
 
- </a>
-</p>
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Kalippan_ser+Bot...;Created+by+Midhunser....;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
+
+
 <div align="center">
+  <a href="https://ibb.co/4wyvT9j"><img src="20211107_195659.jpg""width="200" height="200"/>
   <p align="center">
-<img src=https://i.imgur.com/w89FHm7.jpeg>
+<a href="#"><img title="Kalippan_ser" src="https://img.shields.io/badge/-Kalippan_ser-red?&style=for-the-badge"></a>
 </p>
-  <p align="center">
-<a href="https://github.com/cyberchekuthan"><img title="Author" src="https://img.shields.io/badge/Author-Amal-cyberchekuthan/Amalser_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
-</p>
+  </p>
+<p align="center">
+<a href="https://github.com/kalippan-minnus"><img title="aju" src="https://img.shields.io/badge/author-Kalippan_ser?color=blue&style=for-the-badge&logo=github"></a>
+
 </div>
 <p align="center">
-Project created by <a href="https://github.com/cyberchekuthan">Amalser_v2</a> to make it public
+Project created by <a href="https://github.com/kalippan-minnuz">Midhun</a> to make it public
     <br>
        | © |
         Reserved |
     <br> 
 </p>
 
-## Setup
-<div align="center"> 
+----
 
+  <p align="center">
+  <a href="https://github.com/kalippan-minnuz/Kalippan_ser ">
+    <img src="https://img.shields.io/github/repo-size/kalippan-minnz/Kalippan_ser?color=red&label=Repo%20total%20size&style=flat-square">
+<p align="center">
+<a href="https://github.com/kalippan_minnuz/Kalippan_ser/followers"><img title="Followers" src="https://img.shields.io/github/followers/aju001?color=grey&style=plastic"></a>
+<a href="https://github.com/kalippan_minnuz/Kalippan_ser/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/kalippan-minnuz/Kalippan_ser?color=grey&style=plastic"></a>
+<a href="https://github.com/kalippan_minnuz/Kalippan_ser/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kalippan_minnuz/Kalippan_ser?color=grey&style=plastic"></a>
+<a href="https://github.com/kalippan-minnuz/Kalippanser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kalippan_minnuz/Kalippan_ser?label=Watchers&color=grey&style=flat-circle"></a>
+<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-red.svg"</a>
+<h3 align="center">Contact Me:</h3>
 
-## Click Youtube logo to Watch full video and findout password in this video 👇
+</p>
+    
+<p align="center">
 
- [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://youtu.be/5MKycJxmA4c)
+<a href="https://instagram.com/kalippan_ser?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 
+</p>
 
-  ### Simple Method
+<h4 align="center">Support Video For Deploy Bot:</h4>
+
+<p align="center">
+
+<a href="https://youtube.com/channel/UC0yNrBziB3u2hzvXzJ4NnTA" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
+```
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kalippan-minnuz/Amalser.git)
+kalippan_ser Userbot is Open Source software open to development. 
+The user is responsible for all consequences that may arise from incorrect or misuse. 
+Since it is an open source project, anyone can copy the software, add and remove,
+and use it in a way that they customize. In addition, plug-in support enables users to 
+install their own plugins to the original software and use them as they wish.
+Using the bot out of purpose will explicitly ban you.
+Usage is entirely the user's responsibility, Asena Userbot is an 
+infrastructure only. Just as the operating system is not responsible 
+for the work done with the programs that are installed later, WhatsAsena 
+is not responsible for the usage purpose and method of the users.
+Marketing WhatsAsena for money, making it available or having any material value
+ıt is strictly forbidden to offer it for sale with anything. All legal investigations that may arise
+the user is responsible.
+```
 
 
+## Setup
+<div align="center">
 
+  ### <u> Simple Method <u>
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Amalser/Amalser)
-  
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kalippan-minnuz/Kalippan_ser)
+     </div>
+<br>
+<br >
+If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
+```
+bash <(curl -L https://t.ly/tHxh)
+``` 
 ### The Hard Method
 ```js
 GET QR
-$ apt install git
+$ apt update
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Amal-ser/Amalser
-$ cd Amalser
+$ pkg install git
+$ git clone https://kalippan-minnuzKalippan_ser
+$ cd Kalippan_ser
+$ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
-$ node julie.js
+$ node qr.js
 ```
       
 ```js
 SETUP
-$ git clone https://github.com/Amal-ser/Amalser
-$ cd Amalser
+$ git clone https://kalippan-minnz/Kalippan_ser
+$ cd Kalippanser
+$ chmod +x *
 $ npm i
-$ node julie.js
+$ node qr.js
+   // scan the qr using whatsapp web on your phone
+$ node bot.js
 ```
-
-----
-
-  <p align="center">
-  <a href="httsp://github.com/Amal-ser/Amalser">
-    
-<a href="https://github.com/Amal-ser/followers">
-<img src="https://img.shields.io/github/repo-size/cyberchekuthan/Amalser_v2?color=green&label=Repo%20total%20size&style=plastic">
-<p align="center">
-<a href="https://github.com/Amal-ser/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/Amal-ser?color=blue&style=flat-square"></a>
-<a href="https://github.com/Amal-ser/Amalser/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Amal-ser/Amalser?color=blue&style=flat-square"></a>
-<a href="https://github.com/Amal-ser/Amalser/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Amal-ser/Amalser?color=blue&style=flat-square"></a>
-<a href="https://github.com/Amal-ser/Amalser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Amal-ser/Amalser?label=Watchers&color=blue&style=flat-square"></a>
-</p>
-
-## 📢 Guide
+# 📢 Guide
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/CbRlEux876XFsWQfIlOKty)
+<a href="https://youtube.com/channel/UC0yNrBziB3u2hzvXzJ4NnTA"><img title="join support" src="https://img.shields.io/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
   <div align="center">
-       
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amal-ser&repo=Amalser&theme=nightowl)](https://github.com/Amal-ser/Amalser)
-  </div>
+
     
-### ⚠ Warning ⚠
 
+## F.A.Q
+Answer a few frequently asked questions;
+### Can you read my messages?
+This project is open source so all the codes are clear. Neither less nor more; you can look what you want. **We absolutely do not have access to your accounts.**
+
+### What about our security?
+If you are concerned about security, you can install it on your own computer. If you think someone else has captured your data, simply click on **Whatsapp> Three Dots> Whatsapp Web> Logout** from all sessions button.
+
+### Is it paid?
+**Of course not.** It will never happen. But you can donate to us. You can reach me via [Telegram](https://t.me/KALIPPANSER) .
+
+### ⚠️ Warning! 
 ```
-By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
-Amalser_v2 or we are not responsible for your account, 
-This bot is intended for the purpose of having fun with some fun commands 
-and group management with some helpfull commands.
-
-If  you ended up spamming groups, getting reported left and right, 
-and you ended up in being fight with WhatsApp
-and at the end WhatsApp Team deleted your account. DON'T BLAME US.
-
-No personal support will be provided / We won't spoon feed you. 
-If you need help
-you can contact 👇🏻👇🏻 
+Due to Userbot; Your WhatsApp account may be banned.
+This is an open source project, you are responsible for everything you do. 
+Absolutely, Asena executives do not accept responsibility.
+By establishing the Asena, you are deemed to have accepted these responsibilities.
 ```
-**[![Amalser](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](http://wa.me/919895828468?text=Can%20you%20help%20bro)**
-
+  
 ## Developers
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![AMALSER](https://github.com/Amal-ser.png?size=100)](https://github.com/Amal-ser) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
-----|----|----|----
-[farhan-dqz](https://github.com/farhan-dqz) | [AMALSER](https://github.com/Amal-ser) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
-Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
+  [![Midhunser](https://github.com/20211026_162134.png?size=200)](https://github.com/kalippan-minnuz)
+
+[Midhunser](https://github.com/kalippan-minnuz)  
+Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
   </div>
-    
 
 
 ## License
