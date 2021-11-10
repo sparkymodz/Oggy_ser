@@ -122,9 +122,9 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
 
 *To check update .update   To update Bot .update now*
 
-*kalippanser channel* : https://youtube.com/channel/UC0yNrBziB3u2hzvXzJ4NnTA
+*kalippanser channel* : https://chat.whatsapp.com/Dgkp9LNXDUvDrkifC2SC8h
 
-*Support plzz guys Lub u all kalippanser)*
+*Join whastapp group Lub u all kalippanser)*
 
 *githublink* : https://github.com/kalippan-minnuz/kalippanser
 
