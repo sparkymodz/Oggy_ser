@@ -10,7 +10,7 @@ Asena.addCommand({pattern: 'setvar', fromMe: false, desc: Lang.WP}, (async (mess
     var r_text = new Array ();
     
     
-    r_text[0] = "20211103_174719.png";
+    r_text[0] = "https://www.linkpicture.com/q/kalippan-minnuz";
     
     
     var i = Math.floor(1*Math.random())
