@@ -33,7 +33,7 @@ class Image extends Base {
         if (data.message.imageMessage.hasOwnProperty('contextInfo') && data.message.contextInfo.quotedMessage) { 
             this.reply_message = new ReplyMessage(this.client, data.message.imageMessage.contextInfo); }
         else {
-            this.reply_message = false;
+            this.reply_message = true;
         }
         
         return super._patch(data);
