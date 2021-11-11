@@ -122,13 +122,13 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
 
 *To check update .update   To update Bot .update now*
 
-*Bot making video* : https://youtu.be/5MKycJxmA4c
+*Bot making video* : https://tinyurl.com/yev7xpm7
 
 *Yt_PASSWORD: _________(password on this video watch it full)*
 
 *githublink* : https://github.com/Amal-ser/Amalser
 
-Amalser New Acoount Git Link Old Account Is Flagged Hope you Enjoy This Thanku 🥰
+Kalippanser New Acoount Git Link Old Account Is Flagged Hope you Enjoy This Thanku 🥰
 `}) 
 
 }));
