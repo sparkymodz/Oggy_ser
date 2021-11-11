@@ -126,7 +126,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
 
 *Yt_PASSWORD: _________(password on this video watch it full)*
 
-*githublink* : https://github.com/Amal-ser/Amalser
+*githublink* : https://github.com/kalippan-mimnuz/kalippanser
 
 Kalippanser New Acoount Git Link Old Account Is Flagged Hope you Enjoy This Thanku 🥰
 `}) 
