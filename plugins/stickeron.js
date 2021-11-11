@@ -90,7 +90,7 @@ let baseURI = '/apps/' + config.HEROKU.APP_NAME;
         await message.sendMessage("NEW CAPTION UPDATED")
     }));
 
-    Julie.addCommand({ pattern: 'number ?(.*)', fromMe: true, desc: 'change user number', usage: '.number *Made by Amalser*' }, (async (message, match) => {
+    Julie.addCommand({ pattern: 'number ?(.*)', fromMe: true, desc: 'change user number', usage: '.number *Made by kalippanser*' }, (async (message, match) => {
         if (match[1] == '') return await message.sendMessage('NEED A NUMBER 919895xxxx')
         await heroku.patch(baseURI + '/config-vars', {
             body: {
@@ -100,7 +100,7 @@ let baseURI = '/apps/' + config.HEROKU.APP_NAME;
         await message.sendMessage("NEW USER NUMBER UPDATED")
     }));
 
-    Julie.addCommand({ pattern: 'deployer ?(.*)', fromMe: true, desc: 'change user name', usage: '.deployer *Made by Amalser*' }, (async (message, match) => {
+    Julie.addCommand({ pattern: 'deployer ?(.*)', fromMe: true, desc: 'change user name', usage: '.deployer *Made by Kalippanser*' }, (async (message, match) => {
         if (match[1] == '') return await message.sendMessage('NEED A NAME')
         await heroku.patch(baseURI + '/config-vars', {
             body: {
