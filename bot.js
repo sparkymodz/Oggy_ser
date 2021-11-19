@@ -352,7 +352,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ Kalippanser ~______~*' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ Oggy_ser ~______~*' +
                                     '\n*🌀 Subcribe this channel other wise chance to get erorr: https://youtube.com/channel/UC0yNrBziB3u2hzvXzJ4NnTA*' +
                                     '\n\n*⚠️ ' + error + '*\n'
                                     , MessageType.text);
