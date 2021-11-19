@@ -8,7 +8,7 @@ src="IMG_20211118_113958.jpg" alt="IMG" width="220" height="200"/>
 
 </div>
 <p align="center">
-ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/kalippanser_minnuz">Midhunser</a>
+ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/kalippan-minnuz">Midhunser</a>
     <br>
        | © |
         Reserved 
@@ -24,7 +24,7 @@ src="IMG_20211118_113958.jpg" alt="IMG" width="220" height="200"/>
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Amalser/Amalser)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kalippanser-minnuz/Oggy_ser.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kalippan-minnuz/Oggy_ser.git)
 
 - - -
 </p>
@@ -67,9 +67,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Midhunser](https://github.com/kalippanser-minnuz.png?size=100)](https://github.com/kalippan-minnuz) |  [![Midhunser](https://github.com/kalippanser-minnuz.png?size=100)](https://github.com/kalippanser-minnuz) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![Midhunser](https://github.com/kalippan-minnuz.png?size=100)](https://github.com/kalippan-minnuz) |  [![Midhunser](https://github.com/kalippanser-minnuz.png?size=100)](https://github.com/kalippanser-minnuz) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|---
-[Midhunser](https://github.com/kalippanser-minnuz)  | [Midhunser](https://github.com/Kalippan-minnuz) | [afnanplk](https://github.com/afnanplk)
+[Midhunser](https://github.com/kalippan-minnuz)  | [Midhunser](https://github.com/Kalippan-minnuz) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
 
